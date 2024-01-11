@@ -21,5 +21,6 @@ The basis of the TokenMe solution is to collect and process `TTL` or "Token Time
 The current version of the TCS-server uses the following technologies and platforms:
 
 - `Backend` (Data Collection and Processing): [Node.js](https://nodejs.org/en/about) using the [JavaScript](https://en.wikipedia.org/wiki/JavaScript) language
-- `Frontend` (Web User-Interfaces): [React.js](https://react.dev/) for cloud-servers, [Vue.js](https://vuejs.org/) for embedded-servers (e.g. Raspberry Pi), both uses coding in JavaScript
+- `Frontend` (Web User-Interfaces): [React.js](https://react.dev/) for cloud-servers, [Vue.js](https://vuejs.org/) for embedded-servers (e.g. Raspberry Pi), both using JavaScript
 - `Database`: [PostgreSQL](https://www.postgresql.org/) for big-data, [PouchDB](https://pouchdb.com/) for small/fast-data (which is a portable clone of [CouchDB](https://couchdb.apache.org/), and better suited for embedded use)
+
